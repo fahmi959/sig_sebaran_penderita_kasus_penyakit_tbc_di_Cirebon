@@ -1,0 +1,9 @@
+Esri Topo World
+https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}
+
+Google Satelite
+https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}
+
+Google Satelite Hybrid
+https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}
+
